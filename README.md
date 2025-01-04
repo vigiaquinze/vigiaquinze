@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigiaquinze" alt="vigiaquinze" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vigiaquinze" target="blank"><img src="https://img.shields.io/twitter/follow/vigiaquinze?logo=twitter&style=for-the-badge" alt="vigiaquinze" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vigiaquinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vigiaquinze" height="30" width="40" /></a>
